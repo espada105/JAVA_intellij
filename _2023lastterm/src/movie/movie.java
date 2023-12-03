@@ -1,17 +1,17 @@
-package movie;
-
-public class movie {
-    String title, director;
-
-    static int count;
-
-    public movie(String title, String director){
-        this.title = title;
-        this.director = director;
-        count++;
-
-    }
-}
+//package movie;
+//
+//public class movie {
+//    String title, director;
+//
+//    static int count;
+//
+//    public movie(String title, String director){
+//        this.title = title;
+//        this.director = director;
+//        count++;
+//
+//    }
+//}
 
 //class parentclass{
 //    public void test(){
@@ -52,10 +52,10 @@ public class movie {
 //    public int e;
 // }
 
-class a{
-    public a(char c){}
-}
-
-class b extends a{
-    public b(char c){}
-}
+//class a{
+//    public a(char c){}
+//}
+//
+//class b extends a{
+//    public b(char c){}
+//}
